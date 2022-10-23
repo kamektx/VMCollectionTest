@@ -1,7 +1,6 @@
 ﻿using Livet;
 using Livet.EventListeners;
 using Livet.StatefulModel;
-using Microsoft.VisualBasic;
 using System;
 using System.Collections;
 using System.Collections.Concurrent;
@@ -10,13 +9,8 @@ using System.Collections.ObjectModel;
 using System.Collections.Specialized;
 using System.ComponentModel;
 using System.Diagnostics;
-using System.Diagnostics.CodeAnalysis;
 using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
-using System.Windows.Documents;
 using System.Windows.Threading;
 
 namespace VMCollectionTest
